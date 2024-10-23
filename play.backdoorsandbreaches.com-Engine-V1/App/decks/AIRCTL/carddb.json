@@ -1,0 +1,65 @@
+{
+    "title": "AIRCTL Expansion",
+    "revdate": "10-22-2024",
+    "link": "https://www.antisyphontraining.com/",
+    "data" : [
+        {
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_C2_001.png",
+            "type" : "c2",
+            "id" : "001",
+            "details" : ""
+        },
+        {
+            "name" : "Phish",
+            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_IC-1.png",
+            "type" : "initial",
+            "id" : "007",
+            "details" : "<li><a target=\"_blank\" href=\"https://github.com/drk1\">https://github.com/drk1</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/how-to-phish-for-geniuses\">https://www.blackhillsinfosec.com/how-to-phish-for-geniuses</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/offensive-spf-how-to-automate-anti-phishing-reconnaissance-using-sender-policy-framework\">https://www.blackhillsinfosec.com/offensive-spf-how-to-automate-anti-phishing-reconnaissance-using-sender-policy-framework</a></li>"
+        },
+        {
+            "name" : "Honeypots Deployed",
+            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_INJ-1.png",
+            "type" : "inject",
+            "id" : "016",
+            "details" : "<li><a target=\"_blank\" href=\"https://www.activecountermeasures.com/free-tools/adhd\">https://www.activecountermeasures.com/free-tools/adhd</a></li><li><a target=\"_blank\" href=\"https://canarytokens.org/generate\">https://canarytokens.org/generate</a></li>"
+        },
+        {
+            "name" : "Internal Password Spray",
+            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_PE-1.png",
+            "type" : "pivot",
+            "id" : "025",
+            "details" : "<li><a target=\"_blank\" href=\"https://github.com/dafthack/DomainPasswordSpray\">https://github.com/dafthack/DomainPasswordSpray</a></li><li><a target=\"_blank\" href=\"https://github.com/ropnop/kerbrute\">https://github.com/ropnop/kerbrute</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/webcast-attack-tactics-5-zero-to-hero-attack\">https://www.blackhillsinfosec.com/webcast-attack-tactics-5-zero-to-hero-attack</a></li>"
+        },
+        {
+            "name" : "Malicious Service",
+            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_PER-1.png",
+            "type" : "persist",
+            "id" : "032",
+            "details" : "<li><a target=\"_blank\" href=\"https://github.com/byt3bl33d3r/SILENTTRINITY\">https://github.com/byt3bl33d3r/SILENTTRINITY</a></li><li><a target=\"_blank\" href=\"https://learn.microsoft.com/en-us/sysinternals/\">https://learn.microsoft.com/en-us/sysinternals/</a></li>"
+        },
+        {
+            "name" : "Security Information and Event Management (SIEM) Log Analysis",
+            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_PRO-0.png",
+            "type" : "procedure",
+            "id" : "041",
+            "details" : "<li><a target=\"_blank\" href=\"https://github.com/philhagen/sof-elk\">https://github.com/philhagen/sof-elk</a></li><li><a target=\"_blank\" href=\"https:/jpcertcc.github.io/ToolAnalysisResultSheet\">https:/jpcertcc.github.io/ToolAnalysisResultSheet</a></li>"
+        },
+        {
+            "name" : "Create Inbox Rules to Forward Emails",
+            "image" : "decks/CloudSecurity/BNB_CARDS_CloudDeck_C2_1.png",
+            "type" : "c2",
+            "id" : "052",
+            "details" : "<li><a target=\"_blank\" href=\"https://github.com/sensepost/ruler\">https://github.com/sensepost/ruler</a></li><li><a target=\"_blank\" href=\"https://github.com/OfficeDev/Outlook-Add-in-ForwardEmail\">https://github.com/OfficeDev/Outlook-Add-in-ForwardEmail</a></li>"
+        }
+    ],
+
+    "red": "img/bb-back-init.png",
+    "yellow": "img/bb-back-pivot.png",
+    "brown": "img/bb-back-c2.png",
+    "purple": "img/bb-back-persist.png",
+    "grey":   "img/bb-back-inject.png",
+    "green":  "",
+    "logo":   "img/antisyphon.png",
+    "addOnEnabled":"true"
+}
