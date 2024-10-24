@@ -11,46 +11,39 @@
             "details" : ""
         },
         {
-            "name" : "Phish",
-            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_IC-1.png",
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INITIAL_001.png",
             "type" : "initial",
-            "id" : "007",
-            "details" : "<li><a target=\"_blank\" href=\"https://github.com/drk1\">https://github.com/drk1</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/how-to-phish-for-geniuses\">https://www.blackhillsinfosec.com/how-to-phish-for-geniuses</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/offensive-spf-how-to-automate-anti-phishing-reconnaissance-using-sender-policy-framework\">https://www.blackhillsinfosec.com/offensive-spf-how-to-automate-anti-phishing-reconnaissance-using-sender-policy-framework</a></li>"
+            "id" : "002",
+            "details" : ""
         },
         {
-            "name" : "Honeypots Deployed",
-            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_INJ-1.png",
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_INJECT_001.png",
             "type" : "inject",
-            "id" : "016",
-            "details" : "<li><a target=\"_blank\" href=\"https://www.activecountermeasures.com/free-tools/adhd\">https://www.activecountermeasures.com/free-tools/adhd</a></li><li><a target=\"_blank\" href=\"https://canarytokens.org/generate\">https://canarytokens.org/generate</a></li>"
+            "id" : "003",
+            "details" : ""
         },
         {
-            "name" : "Internal Password Spray",
-            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_PE-1.png",
-            "type" : "pivot",
-            "id" : "025",
-            "details" : "<li><a target=\"_blank\" href=\"https://github.com/dafthack/DomainPasswordSpray\">https://github.com/dafthack/DomainPasswordSpray</a></li><li><a target=\"_blank\" href=\"https://github.com/ropnop/kerbrute\">https://github.com/ropnop/kerbrute</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/webcast-attack-tactics-5-zero-to-hero-attack\">https://www.blackhillsinfosec.com/webcast-attack-tactics-5-zero-to-hero-attack</a></li>"
-        },
-        {
-            "name" : "Malicious Service",
-            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_PER-1.png",
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PERSIST_001.png",
             "type" : "persist",
-            "id" : "032",
-            "details" : "<li><a target=\"_blank\" href=\"https://github.com/byt3bl33d3r/SILENTTRINITY\">https://github.com/byt3bl33d3r/SILENTTRINITY</a></li><li><a target=\"_blank\" href=\"https://learn.microsoft.com/en-us/sysinternals/\">https://learn.microsoft.com/en-us/sysinternals/</a></li>"
+            "id" : "004",
+            "details" : ""
         },
         {
-            "name" : "Security Information and Event Management (SIEM) Log Analysis",
-            "image" : "decks/CoreV2.2/BNB_CARDS_v2.2_PRO-0.png",
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PIVOT_001.png",
+            "type" : "pivot",
+            "id" : "005",
+            "details" : ""
+        },
+        {
+            "name" : "Data Swamp Exfiltration",
+            "image" : "decks/AIRCTL/BNB_CARDS_AIRCTL_PROCEDURE_001.png",
             "type" : "procedure",
-            "id" : "041",
-            "details" : "<li><a target=\"_blank\" href=\"https://github.com/philhagen/sof-elk\">https://github.com/philhagen/sof-elk</a></li><li><a target=\"_blank\" href=\"https:/jpcertcc.github.io/ToolAnalysisResultSheet\">https:/jpcertcc.github.io/ToolAnalysisResultSheet</a></li>"
-        },
-        {
-            "name" : "Create Inbox Rules to Forward Emails",
-            "image" : "decks/CloudSecurity/BNB_CARDS_CloudDeck_C2_1.png",
-            "type" : "c2",
-            "id" : "052",
-            "details" : "<li><a target=\"_blank\" href=\"https://github.com/sensepost/ruler\">https://github.com/sensepost/ruler</a></li><li><a target=\"_blank\" href=\"https://github.com/OfficeDev/Outlook-Add-in-ForwardEmail\">https://github.com/OfficeDev/Outlook-Add-in-ForwardEmail</a></li>"
+            "id" : "006",
+            "details" : ""
         }
     ],
 

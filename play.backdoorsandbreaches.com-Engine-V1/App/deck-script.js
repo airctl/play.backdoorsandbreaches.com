@@ -58,6 +58,10 @@ function opendeckselector() {
       if (selecteddeck == "Huntress"){
         cardlist = 'decks/Huntress/carddb.json'
       }
+      if (selecteddeck == "AI Security")
+      {
+        cardlist = "decks/airctl/carddb.json";
+      }
       if (selecteddeck == "Cloud Security")
       {
         cardlist = "decks/CloudSecurity/carddb.json";
